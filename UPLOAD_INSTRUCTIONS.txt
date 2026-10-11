@@ -1,0 +1,1 @@
+Upload main.py and requirements.txt individually to the GitHub repository ROOT, replacing the existing versions. No folders required. Render Root Directory: blank. Build: pip install -r requirements.txt. Start: uvicorn main:app --host 0.0.0.0 --port $PORT. This bundle is a compatibility packaging solution, not a change to ANEIRA's application logic.\n
